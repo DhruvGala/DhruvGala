@@ -1,6 +1,6 @@
 # Dhruv Gala
 
-I'm a full stack-developer you finds opportunities to hone problem-solving skills as well as planning and designing complex systems. When not coding, I'm a content creator who makes and publishes music at [![Soundcloud](./assets/SoundCloud.png)](https://soundcloud.com/hokushin).
+I'm a full stack-developer you finds opportunities to hone problem-solving skills as well as planning and designing complex systems. When not coding, I'm a content creator who makes and publishes music at [<img width="30px" style="padding-right:10px;" src="./assets/SoundCloud.png" />](https://soundcloud.com/hokushin).
 
 
 
